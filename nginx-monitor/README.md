@@ -15,15 +15,12 @@ falcon-url: http://127.0.0.1:1988/v1/push
 nginx-url: http://127.0.0.1:80/nginx_status
   
 ```
-2. 需要第三方插件github.com/kylelemons/go-gypsy/yaml
-```
-go get github.com/kylelemons/go-gypsy/yaml
+2. 下载可执行文件nginx_status
 
-```
 3. 启动方式
 >\# crontab -e
   ```
-* * * * * go run nginx_status.go
+* * * * * /root/nginx_status
 
   ```
 

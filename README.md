@@ -8,7 +8,7 @@
 - go (1.10)
 
 ## 列表
-1. nginx_monitor - 收集nginx的status模块监控信息上传到falcon
+1. nginx_monitor_to_falcon - 收集nginx的status模块监控信息上传到falcon
 
 ## 联系方式
 

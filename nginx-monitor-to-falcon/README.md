@@ -3,7 +3,7 @@
 收集nginx自带的http_stubs_tatus模块监控发送到falcon
 
 ## 系统环境
-
+ 
 - running inside Linux
 - nginx --with-http_stub_status_module
 
